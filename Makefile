@@ -12,6 +12,7 @@
 #
 # See the Mulan PSL v2 for more details.
 #**************************************************************************************/
+export NEMU_HOME=/home/johnny/big-proj/mk-cpu-lesson-dev/NJU-ProjectN_nemu
 
 # Sanity check
 ifeq ($(wildcard $(NEMU_HOME)/src/nemu-main.c),)
